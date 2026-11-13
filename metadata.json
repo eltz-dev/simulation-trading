@@ -1,0 +1,6 @@
+{
+  "name": "Trading Simulation Training",
+  "description": "Platform simulasi trading real-time multi-aset (Emas, Saham, Crypto, Forex) dengan candlestick interaktif, order book live, akun latihan, dan panel kontrol admin transparan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
